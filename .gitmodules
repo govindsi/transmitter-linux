@@ -9,4 +9,4 @@
 	url = ../opendroneid-core-c.git
 [submodule "gpsd"]
 	path = gpsd
-	url = https://gitlab.com/gpsd/gpsd.git
+	url = https://github.com/ntpsec/gpsd.git

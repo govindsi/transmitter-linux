@@ -6,7 +6,7 @@
 	url = https://git.kernel.org/pub/scm/bluetooth/bluez.git
 [submodule "core-c"]
 	path = core-c
-	url = ../opendroneid-core-c.git
+	url = git@github.com:opendroneid/opendroneid-core-c.git
 [submodule "gpsd"]
 	path = gpsd
 	url = https://github.com/ntpsec/gpsd.git
